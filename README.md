@@ -1,2 +1,6 @@
 # tiny-micrograd
-Following Micrograd and slowly piecing together how PyTorch autograd works under the hood.
+
+Trying to understand what actually happens inside a neural network instead of just using one. 
+
+Built a tiny autograd engine and a simple neural network from scratch, following Andrej Karpathy's micrograd.
+Just exploring and learning what frameworks like PyTorch(Auto0gtad) are doing behind the scenes.
